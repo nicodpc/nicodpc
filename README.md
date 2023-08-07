@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="GIF" style="width: 800px;">
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="GIF" style="width: 500px;">
 </p>
+
 ### Hi there 👋:
 
 Hello! I'm Nicolas De Pinto Carpio, a data analysis enthusiast with a strong background in industrial engineering. I've embarked on the exciting journey of the Data Analytics bootcamp, where I've gained advanced skills in data handling and informed decision-making.<br><br>My focus lies in applying my Data Analytics skills to uncover hidden stories within data and deliver meaningful value to teams. My experience in planning and logistics has equipped me with the ability to tackle complex challenges and find innovative solutions.<br><br>I possess proficiency in Python, as well as in building predictive models and utilizing tools like SQL and Power BI. I'm always eager for new opportunities to apply my data analysis expertise and contribute to the success of information-driven projects with a focus on tangible outcomes
